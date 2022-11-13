@@ -1,20 +1,5 @@
 #### Idea
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+[Click Me..!](https://accordion-projects-react.netlify.app)
 
-![](./idea.png);
-
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+<img width="1095" alt="Screenshot 2022-11-13 at 23 23 10" src="https://user-images.githubusercontent.com/101603320/201547672-0902b5db-86ef-4509-970d-21e4be3cdfe2.png">
